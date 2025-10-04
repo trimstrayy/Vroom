@@ -1,0 +1,1 @@
+// RideCard component placeholder

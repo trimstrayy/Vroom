@@ -1,0 +1,1 @@
+// FriendList screen placeholder
